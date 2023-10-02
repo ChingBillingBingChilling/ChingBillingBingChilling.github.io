@@ -1,6 +1,4 @@
-.grid {
-    display: grid;
-    place-items: center;
+#B1 {
     font-size: 25px;
-    border-radius: 30px;
+    border-radius: 6px;
 }
