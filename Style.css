@@ -1,4 +1,6 @@
 #B1 {
+    display: grid;
+    place-items: center;
     height: 50px;
     width: 100px;
 }
