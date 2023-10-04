@@ -1,6 +1,9 @@
-.grid {
-    display: grid;
-    place-items: center;
+#B1 {
+ position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+    width: 100px;
     height: 100px;
-    width: 150px;
+
 }
