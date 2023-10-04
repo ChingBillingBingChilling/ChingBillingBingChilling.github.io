@@ -1,9 +1,16 @@
-#B1 {
- position: absolute;
-    top: 25%;
+#B1{
+    position: absolute;
+    top: 15%;
     left: 50%;
     transform: translate(-50%, -50%)
-    width: 100px;
-    height: 100px;
 
+    
+    
+}
+
+#B1 {
+    width: 200px;
+    height: 60px;
+    font-size: 23px;
+    font-weight: bolder;
 }
