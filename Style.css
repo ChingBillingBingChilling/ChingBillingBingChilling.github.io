@@ -15,12 +15,13 @@
     font-weight: bolder;
 }
 
-#topText {
-    font-size: 100px;
+#TopText {
     position: absolute;
     top: 1%;
     left: 50%;
     transform: translate(-50%, -50%);
-    
-    
+}
+#TopText {
+    font-size: 100px;
+    font-weight: bolder;
 }
