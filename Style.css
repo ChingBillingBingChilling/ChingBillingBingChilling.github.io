@@ -14,6 +14,18 @@
     font-size: 23px;
     font-weight: bolder;
 }
+
+#TopText {
+    position: absolute;
+    top: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#TopText {
+    font-size: 100px;
+    font-weight: bolder;
+}
+
 #B2{
     position: absolute;
     top: 35%;
@@ -29,15 +41,3 @@
     height: 60px;
     font-size: 23px;
     font-weight: bolder;
-}
-
-#TopText {
-    position: absolute;
-    top: 1%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-#TopText {
-    font-size: 100px;
-    font-weight: bolder;
-}
