@@ -1,6 +1,6 @@
 #B1{
     position: absolute;
-    top: 15%;
+    top: 20%;
     left: 50%;
     transform: translate(-50%, -50%)
 
@@ -14,8 +14,13 @@
     font-size: 23px;
     font-weight: bolder;
 }
+
 #topText {
-    font-size: 50px;
-    font-weight: bolder;
+    font-size: 100px;
+    position: absolute;
+    top: 1%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+    
     
 }
