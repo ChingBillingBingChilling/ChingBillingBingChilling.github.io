@@ -13,6 +13,7 @@
     height: 60px;
     font-size: 23px;
     font-weight: bolder;
+    
 }
 
 #TopText {
@@ -28,7 +29,7 @@
 
 #B2{
     position: absolute;
-    top: 45%;
+    top: 42%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -41,4 +42,10 @@
     height: 60px;
     font-size: 23px;
     font-weight: bolder;
+}
+
+button:hover {
+    border-radius: 50px;
+    border-color: #4fd32d;
+    background-color: #929c93;
 }
