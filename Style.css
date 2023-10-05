@@ -1,6 +1,6 @@
 #B1{
     position: absolute;
-    top: 29%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -28,7 +28,7 @@
 
 #B2{
     position: absolute;
-    top: 35%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
 
@@ -41,3 +41,4 @@
     height: 60px;
     font-size: 23px;
     font-weight: bolder;
+}
