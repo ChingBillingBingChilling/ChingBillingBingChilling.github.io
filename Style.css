@@ -121,6 +121,23 @@
     font-weight: bolder;
     
 }
+#B8{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    transform: translate(-50%, -50%);
+
+    
+    
+}
+
+#B8 {
+    width: 200px;
+    height: 60px;
+    font-size: 23px;
+    font-weight: bolder;
+    
+}
 
 button:hover {
     border-radius: 50px;
